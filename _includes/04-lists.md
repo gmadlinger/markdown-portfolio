@@ -1,5 +1,5 @@
 # Why pugs are the best
 
-* They're cute
-* They're like potato chips
+* _They're cute_
+* **They're like potato chips**
 * They love to sleep all day
